@@ -1,37 +1,52 @@
-# Purpose of This Repo
+# Project: Data Modeling with Apache Cassandra
 
-This repo is meant to be used to keep things organized during content development and act as the source of truth for all projects and exercises related to this course.
+Project description goes here.
 
-## Folder Structure
+### How to use this repository?
 
-### Lesson Folder
 
-This repo contains a folder for each `lesson` and one `project` folder.
+### Getting Started
 
-Example
+Instructions for how to get a copy of the project running on your local machine.
+
+### Dependencies
+
 ```
-lesson-1-hello
-lesson-2-world
-lesson-3-foo
-lesson-4-bar
-project
+Examples here
 ```
 
-Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
+### Installation
 
-Example
+Step by step explanation of how to get a dev environment running.
+
+List out the steps
+
 ```
-lesson-1-hello
+Give an example here
 ```
 
-Four lesson folders have been provided as a template; However, you may need to add more or possibly use less than four depending on what is needed.
+## Testing
 
-If you require an additional lesson folder, you can make a copy of the folder and paste it into the root directory.
+Explain the steps needed to run any automated tests
 
-### Exercises Folder
+### Break Down Tests
 
-Each `lesson` folder contains an `exercises` folder. This `exercises` folder should contain all files and instructions necessary for the exercises along with the solution. The solutions for these exercises will be shared with students. See the `README` in the `exercises` folder for information about folder structure.
+Explain what each test does and why
 
-### Project Folder
+```
+Examples here
+```
+## Project Instructions
 
-The `project` folder should contain all files and instructions necessary for setup. If possible, a set of instructions should be provided for both Udacity workspaces and a way to work locally (for both MacOS and Windows OS). At a minimum, one set of instructions should be provided. A `README` template has been provided in the project folder. This template layout should be used to write your README.
+This section should contain all the student deliverables for this project.
+
+## Built With
+
+* [Item1](www.item1.com) - Description of item
+* [Item2](www.item2.com) - Description of item
+* [Item3](www.item3.com) - Description of item
+
+Include all items used to build project.
+
+## License
+[License](./LICENSE.md)
